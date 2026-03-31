@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Aryawart Gupta
+# Author: Harshit sagwliya
 # Course: Open Source Software
 
 # Creating a sample log file so we have data to analyze on this fresh system
