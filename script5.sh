@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Aryawart Gupta
+# Author: Harshit sagwaliya
 # Course: Open Source Software
 
 echo "========================================="
