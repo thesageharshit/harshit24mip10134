@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Aryawart Gupta
+# Author: harshit sagwaliya
 # Course: Open Source Software
 
 PACKAGE="git"
