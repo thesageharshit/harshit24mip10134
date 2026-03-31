@@ -22,7 +22,7 @@ To run these scripts on an Ubuntu/Debian system, follow these steps:
 
 1. Clone the Repository:
    ```b
-   git clone https://github.com/Aryawart-Gupta/OSS-Capstone-Audit
+   git clone https://github.com/Harshit-sagwaliya/OSS-Capstone-Audit
    cd OSS-Capstone-Audit
 2. Grant Execution Permissions:
    chmod +x *.sh
