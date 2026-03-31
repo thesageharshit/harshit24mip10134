@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Aryawart Gupta
+# Author: Harshit sagwaliya
 # Course: Open Source Software
 
 echo "========================================="
